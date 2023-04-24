@@ -1,0 +1,4 @@
+﻿  Klient.cpp
+C:\Users\Patryk Górniak\Desktop\tcp\klient\Klient\Klient\Klient.cpp(24,26): warning C4244: "=": konwersja z "SOCKET" do "int", możliwa utrata danych
+C:\Users\Patryk Górniak\Desktop\tcp\klient\Klient\Klient\Klient.cpp(78,64): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+  Klient.vcxproj -> C:\Users\Patryk Górniak\Desktop\tcp\klient\Klient\x64\Debug\Klient.exe

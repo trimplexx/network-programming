@@ -1,0 +1,4 @@
+﻿  Serwer.cpp
+C:\Users\Patryk Górniak\Desktop\tcp\serwer\Serwer\Serwer\Serwer.cpp(24,27): warning C4244: "=": konwersja z "SOCKET" do "int", możliwa utrata danych
+C:\Users\Patryk Górniak\Desktop\tcp\serwer\Serwer\Serwer\Serwer.cpp(70,26): warning C4244: "=": konwersja z "SOCKET" do "int", możliwa utrata danych
+  Serwer.vcxproj -> C:\Users\Patryk Górniak\Desktop\tcp\serwer\Serwer\x64\Debug\Serwer.exe

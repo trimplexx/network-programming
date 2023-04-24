@@ -1,0 +1,8 @@
+﻿  Trwa generowanie kodu
+  0 of 132 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+libcrypto.lib(libcrypto-lib-aes-gcm-avx512.obj) : warning LNK4209: informacje debugowania uszkodzone; skompiluj ponownie moduł; obiekt zostanie skonsolidowany bez informacji debugowania
+libcrypto.lib(libcrypto-lib-aes-gcm-avx512.obj) : warning LNK4209: informacje debugowania uszkodzone; skompiluj ponownie moduł; obiekt zostanie skonsolidowany bez informacji debugowania
+  Client.vcxproj -> C:\Users\lukig\Desktop\Wszystko na studia\SEM5\PWS\tsl\Client\x64\Release\Client.exe
