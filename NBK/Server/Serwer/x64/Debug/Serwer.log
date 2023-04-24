@@ -1,0 +1,9 @@
+﻿  Serwer.cpp
+C:\Users\Patryk Górniak\Desktop\NBK\Serwer\Serwer\Serwer.cpp(27,27): warning C4244: "=": konwersja z "SOCKET" do "int", możliwa utrata danych
+C:\Users\Patryk Górniak\Desktop\NBK\Serwer\Serwer\Serwer.cpp(87,71): warning C4267: "argument": konwersja z "size_t" do "ULONG", możliwa utrata danych
+C:\Users\Patryk Górniak\Desktop\NBK\Serwer\Serwer\Serwer.cpp(103,30): warning C4244: "=": konwersja z "SOCKET" do "int", możliwa utrata danych
+C:\Users\Patryk Górniak\Desktop\NBK\Serwer\Serwer\Serwer.cpp(155,61): warning C4244: "argument": konwersja z "SOCKET" do "const int", możliwa utrata danych
+C:\Users\Patryk Górniak\Desktop\NBK\Serwer\Serwer\Serwer.cpp(156,40): warning C4244: "argument": konwersja z "SOCKET" do "const int", możliwa utrata danych
+C:\Users\Patryk Górniak\Desktop\NBK\Serwer\Serwer\Serwer.cpp(165,40): warning C4244: "argument": konwersja z "SOCKET" do "const int", możliwa utrata danych
+C:\Users\Patryk Górniak\Desktop\NBK\Serwer\Serwer\Serwer.cpp(166,36): warning C4244: "argument": konwersja z "SOCKET" do "const int", możliwa utrata danych
+  Serwer.vcxproj -> C:\Users\Patryk Górniak\Desktop\NBK\Serwer\x64\Debug\Serwer.exe
